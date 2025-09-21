@@ -1,0 +1,1 @@
+print("Vidya + Entry Code")
